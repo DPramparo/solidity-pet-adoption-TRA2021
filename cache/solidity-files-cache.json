@@ -2,11 +2,11 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "E:\\damia\\Documents\\Desarrollo\\solidity-pet-adoption-TRA2021\\contracts\\Adoption.sol": {
-      "lastModificationDate": 1637960538381,
-      "contentHash": "99554c5088a8bf0334439f2c24bec1ad",
+      "lastModificationDate": 1637961449008,
+      "contentHash": "c1e9687e9bbaa908e762ecc711f78213",
       "sourceName": "contracts/Adoption.sol",
       "solcConfig": {
-        "version": "0.7.3",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -37,11 +37,11 @@
       ]
     },
     "E:\\damia\\Documents\\Desarrollo\\solidity-pet-adoption-TRA2021\\contracts\\Token.sol": {
-      "lastModificationDate": 1637960616182,
+      "lastModificationDate": 1637960939352,
       "contentHash": "645fc27d415a4ae4fb9f5c1e50f904c3",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
-        "version": "0.7.3",
+        "version": "0.8.4",
         "settings": {
           "optimizer": {
             "enabled": false,

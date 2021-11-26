@@ -16,7 +16,6 @@ describe("Adoption", function () {
   });
   it("should start without adopters", async () => {
     const adopters = await adoption.getAdopters();
-
     expect(
       adopters.every((address: string) => address === emptyAddress)
     ).to.equal(true);
