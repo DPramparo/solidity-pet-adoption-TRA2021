@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+# Pet Adoption
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Trabajo practico Final TRA 2021 - Damián Prámparo
+En este trabajo se llevo a cabo un contrato para poder adoptar mascotas y luego utilizarlo.
+El codigo fue completado y realizado siguiendo las guias de clase.
+No hubo errores a la hora de correr test.
 
 Try running some of the following tasks:
 
 ```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+npm install
+npm run build
+npm test
+npx hardhat run scripts/deploy.ts --network rinkeby
 ```
